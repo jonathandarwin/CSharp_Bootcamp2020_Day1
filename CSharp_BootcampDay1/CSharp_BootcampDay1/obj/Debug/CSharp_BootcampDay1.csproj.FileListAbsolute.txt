@@ -1,0 +1,6 @@
+D:\CSharp_BootcampDay1\CSharp_BootcampDay1\bin\Debug\CSharp_BootcampDay1.exe.config
+D:\CSharp_BootcampDay1\CSharp_BootcampDay1\bin\Debug\CSharp_BootcampDay1.exe
+D:\CSharp_BootcampDay1\CSharp_BootcampDay1\bin\Debug\CSharp_BootcampDay1.pdb
+D:\CSharp_BootcampDay1\CSharp_BootcampDay1\obj\Debug\CSharp_BootcampDay1.csprojResolveAssemblyReference.cache
+D:\CSharp_BootcampDay1\CSharp_BootcampDay1\obj\Debug\CSharp_BootcampDay1.exe
+D:\CSharp_BootcampDay1\CSharp_BootcampDay1\obj\Debug\CSharp_BootcampDay1.pdb

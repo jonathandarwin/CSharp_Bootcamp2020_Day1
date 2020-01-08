@@ -1,0 +1,6 @@
+D:\CSharp_Bootcamp_Latihan\CSharp_Bootcamp_Latihan\bin\Debug\CSharp_Bootcamp_Latihan.exe.config
+D:\CSharp_Bootcamp_Latihan\CSharp_Bootcamp_Latihan\bin\Debug\CSharp_Bootcamp_Latihan.exe
+D:\CSharp_Bootcamp_Latihan\CSharp_Bootcamp_Latihan\bin\Debug\CSharp_Bootcamp_Latihan.pdb
+D:\CSharp_Bootcamp_Latihan\CSharp_Bootcamp_Latihan\obj\Debug\CSharp_Bootcamp_Latihan.csprojResolveAssemblyReference.cache
+D:\CSharp_Bootcamp_Latihan\CSharp_Bootcamp_Latihan\obj\Debug\CSharp_Bootcamp_Latihan.exe
+D:\CSharp_Bootcamp_Latihan\CSharp_Bootcamp_Latihan\obj\Debug\CSharp_Bootcamp_Latihan.pdb
